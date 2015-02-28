@@ -1,3 +1,3 @@
 # xo
-Sample game x and o in html javascript. 
+Sample x and o game in html, canvas and javascript. 
 Created just for fun.
